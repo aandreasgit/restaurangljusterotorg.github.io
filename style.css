@@ -17,6 +17,8 @@
 .nav{
     background-color: transparent;
     color: #fff;
+	display: flex;
+	flex-wrap: wrap;
   }
   .nav ul{
     width: 100%;
